@@ -1,10 +1,10 @@
 import "./App.css";
-import Loading from "../pages/Loading";
+import Layout from "../pages/Layout";
 
 function App() {
   return (
     <div className="App">
-      <Loading />
+      <Layout />
     </div>
   );
 }

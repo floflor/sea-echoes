@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Lines from "../components/Lines/Lines";
 import { pixelToPercentage, randomNumber } from "../helpers";
-import styles from "./Loading.module.css";
+import styles from "./Layout.module.css";
 import Circle from "../components/Circle";
 import Container from "../components/CircleContainer";
 

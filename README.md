@@ -34,3 +34,6 @@ Start the server
 ```bash
   npm start
 ```
+## Production
+
+Check the official version on https://sea-echoes.vercel.app/

@@ -3,7 +3,7 @@ import styles from "./Lines.module.css";
 const Lines = () => {
   return (
     <div className={styles.container}>
-      {Array.from({ length: 115 }, (_, i) => (
+      {Array.from({ length: 100 }, (_, i) => (
         <Line key={i}/>
       ))}
     </div>
