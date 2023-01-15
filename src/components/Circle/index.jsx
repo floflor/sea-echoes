@@ -4,7 +4,8 @@ const Circle = styled.div`
   height: ${(props) => props.height && props.height};
   border-radius: 50%;
   background-color: #6a7570;
-  border: 0.5px solid black;
+  border: 0.5px solid #000000;
 `;
+
 
 export default Circle;
