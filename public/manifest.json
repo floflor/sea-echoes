@@ -1,0 +1,12 @@
+{
+  "short_name": "Sea Echoes",
+  "name": "Sea Echoes",
+  "icons": [
+    {
+      "src": "sea-echoes-logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "."
+}
